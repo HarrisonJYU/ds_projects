@@ -7,11 +7,11 @@ Selected Data Science Projects
 - Experimented with different embedding models using Sentence Transformers to optimize accuracy of the system
 - Built a pipeline to collect job data automatically and store over 3500 job descriptions in NoSQL database
 
-![]([Harrison_Portfolio/image/resume_results.jpg](https://github.com/HarrisonJYU/Harrison_Portfolio/blob/main/image/resume_results.png))
-
+<img src="https://github.com/HarrisonJYU/Harrison_Portfolio/blob/main/image/resume_results.png" alt=" " width="450"/>
 
 
 ## Project 2 - Browsing Time Minimization for Streaming Services
 - Minimize browsing time by ~40% by conducting multivariate experiments to find optimal design factors 
 - Run partial F-tests to determine interaction effects between design factors and fitted a response surface model to further locate the optimum
 
+<img src="https://github.com/HarrisonJYU/Harrison_Portfolio/blob/main/image/browsing_time_ccd.png" alt=" " width="400"/>
