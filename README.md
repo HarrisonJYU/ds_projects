@@ -7,7 +7,7 @@ Selected Data Science Projects
 - Experimented with different embedding models using Sentence Transformers to optimize accuracy of the system
 - Built a pipeline to collect job data automatically and store over 3500 job descriptions in NoSQL database
 
-![d](Harrison_Portfolio/image/resume_results.jpg)
+![]([Harrison_Portfolio/image/resume_results.jpg](https://github.com/HarrisonJYU/Harrison_Portfolio/blob/main/image/resume_results.png))
 
 
 
