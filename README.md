@@ -4,7 +4,7 @@ Selected Data Science Projects for Harrison Yu
 ## [Project 1 - ResumeMatcher ](https://github.com/HarrisonJYU/ResumeMatcher)
 #### Keywords: Big Data, Pipeline, Spark, no-SQL, Airflow, Cloud Computing(GCP), Sentence Embedding
 
-- Designed a data-related job recommendation platform for given resumes using Airflow, MangoDB and Spark ML
+- Designed a data jobs recommendation platform for given resumes using Airflow, MangoDB and Spark ML
 - Experimented with different embedding models using Sentence Transformers to optimize accuracy of the system
 - Built a pipeline to collect job data automatically and store over 3500 job descriptions in NoSQL database
 
