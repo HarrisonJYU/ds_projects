@@ -17,3 +17,12 @@ Selected Data Science Projects for Harrison Yu
 - Run partial F-tests to determine interaction effects between design factors and fitted a response surface model to further locate the optimum
 
 <img src="https://github.com/HarrisonJYU/Harrison_Portfolio/blob/main/image/browsing_time_ccd.png" alt=" " width="400"/>
+
+
+## [Project 3 - NYC Household Broadband Adoption Rate Analysis](https://docs.google.com/document/d/1PXWrOdyGfEfvMqNd3KO3KfJLzSr0907hkpcF3y4_xbM/edit#)
+#### Keywords: Geospatial Analytics, Regression Analysis, Correlation Analysis, GIS, Open Data
+- Conducting a regression analysis to explore the digital divide in NYC neighborhoods on internet adoption rates and socioeconomic factors in ArcGIS
+- Improved R-2 score by ~30% by implementing a geographically weighted regression (GWR) model
+- Visualized clusters and outliers of internet adoption using spatial weight matrix and Local Moran’s I in Python 
+
+
