@@ -1,5 +1,5 @@
 ## Harrison_Portfolio
-Selected Data Science Projects 
+Selected Data Science Projects for Harrison Yu
 
 ## [Project 1 - ResumeMatcher ](https://github.com/HarrisonJYU/ResumeMatcher)
 #### Keywords: Big Data, Pipeline, Spark, no-SQL, Airflow, Cloud Computing(GCP), Sentence Embedding
